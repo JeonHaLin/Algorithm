@@ -108,6 +108,13 @@ int main() {
     delete[n] arr1;
     delete[n] arr2;
     delete[n] arr3;
+    /*
+    if there's an error
+    try:
+    delete[] arr1;
+    delete[] arr2;
+    delete[] arr3;
+    */
 
     return 0;
 }
